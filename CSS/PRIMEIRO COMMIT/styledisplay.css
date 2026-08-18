@@ -1,0 +1,25 @@
+
+.box {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.box-2 {
+background-color: yellow;
+
+}
+
+.box-3 {
+    background-color: blue;
+   
+}
+
+DISPLAY
+
+Block
+in line (em linha) não pode wescolher altura e largura
+
+inline-block 
