@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: Roboto; sans-seref;
+    font-style: italic;
+    text-shadow: 10px 10px 10px red;
+} 
+p {
+    color: blue; /* Troca a cor do texto */
+    font-size: 30px; /* Troca o tamanho do texto */
+    font-weight: 100;
+    font-family: Roboto; sans-seref;
+    font-style: italic;
+    line-height: 30px;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    text-align: justify;
+    text-transform: lowercase;
+    text-decoration: dashed;
+}
+        
