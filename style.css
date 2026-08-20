@@ -69,18 +69,21 @@ p {
 }
 
 .button-main {
+    display: block;
+    width: 130px;
+    height: 25px;
+    text-align: center;
     background:#665AE1;
     border-radius: 20px;
-    width: 200px;
-    height: 30px;
     border: none;
     cursor: pointer;
     filter:drop-shadow(0px 4px 4px 0px #00000040);
     font-weight: 300;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 25px;
     color: #000000;
     margin-left: 250px;
+   
 }
 
 @media screen and (max-width: 900px){
@@ -97,7 +100,7 @@ p {
 
     .button-header {
         position: relative;
-        left: 560px;
+        left: 550px;
     }
 
     h1 {
@@ -153,6 +156,7 @@ p {
     position:relative;
     bottom: 400px;
     margin-left: 180px;
+    text-align: center;
     }
     
     
